@@ -6,14 +6,15 @@
 
 ## 🛠️ Tools & Technologies
 
-- **Automation:** Robot Framework, Appium, Katalon, K6  
+- **Automation:** Selenium, Robot Framework, Appium, Katalon, K6  
 - **API Testing:** Postman, REST, Newman CLI  
-- **Mobile Testing:** Android (Appium)  
-- **Database:** SQL (DBeaver)  
-- **Scripting:** Python (basic)  
-- **Utilities:** Jira, Testiny, Kibana, AS400  
+- **Mobile Testing:** Android (Appium), IOS (Xcode)  
+- **Database:** SQL (DBeaver, Aquadata Studio)  
+- **Scripting:** Python  
+- **Utilities:** Jira, Zephyr, Testiny, Kibana, AS400  
 - **Version Control:** Git, GitHub  
-- **CI/CD:** GitHub Actions (manual scripting)
+- **CI/CD:** Jenkins (Basic)
+- **Perfomance Testing:** Locust, K6
 
 ---
 
