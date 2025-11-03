@@ -21,7 +21,7 @@
 
 - ✅ Web & Mobile UI Automation  
 - ✅ API Test Automation  
-- ✅ Functional, Regression, Smoke, Performance Testing  
+- ✅ Functional, Regression, Smoke, Sanity, Integration, Performance Testing  
 - ✅ Test Data Validation using SQL  
 - ✅ Defect Tracking & Reporting
 
