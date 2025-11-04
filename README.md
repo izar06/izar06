@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm <b>Izar Hairul Anam</b>
 
-**QA Engineer** · Passionate about **Test Automation** (Web · API · Mobile)
+**QA Engineer** · Passionate about **Test Automation And Test Manual** (Web · API · Mobile)
 
 <!-- Badges -->
 <a href="mailto:izar.anam7@gmail.com">
