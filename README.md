@@ -4,15 +4,29 @@
 # 👋 Hi, I'm <b>Izar Hairul Anam</b>
 
 **QA Engineer** · Passionate about **Test Automation And Test Manual** (Web · API · Mobile)
+---
 
-<p>
-Hello! My name is Izar Hairul Anam, a Software QA Engineer with over 2 years of experience in both manual and automation testing. I have hands-on experience designing and executing test cases across functional, regression, performance, and API testing phases.
-Currently, I work as a Software QA Engineer at Paydia, performing end-to-end testing for mobile (iOS & Android), web, and API platforms using Robot Framework, Postman, Appium, and K6. I am proficient in SQL (DBeaver) for data validation and utilize tools like Jira and Testiny for test management and defect tracking.
-
-Previously, I coordinated SIT and UAT testing at Bank Mandiri, where I led QA activities, defined testing strategies, and ensured cross-team alignment between developers, business teams, and stakeholders.
-
-I’m passionate about quality, automation, and continuous improvement — aiming to make every release smoother and more reliable.
+<p align="center">
+Hello! My name is <b>Izar Hairul Anam</b>, a <b>Software QA Engineer</b> with over <b>2 years of experience</b> in both manual and automation testing.<br>
+I have hands-on experience designing and executing test cases across functional, regression, performance, and API testing phases.
 </p>
+
+<p align="center">
+Currently, I work as a <b>Software QA Engineer at Paydia</b>, performing end-to-end testing for mobile (iOS & Android), web, and API platforms using 
+<b>Robot Framework</b>, <b>Postman</b>, <b>Appium</b>, and <b>K6</b>.<br>
+I am proficient in <b>SQL (DBeaver)</b> for data validation and utilize tools like <b>Jira</b> and <b>Testiny</b> for test management and defect tracking.
+</p>
+
+<p align="center">
+Previously, I coordinated <b>SIT and UAT testing</b> at <b>Bank Mandiri</b>, where I led QA activities, defined testing strategies, 
+and ensured cross-team alignment between developers, business teams, and stakeholders.
+</p>
+
+<p align="center">
+I’m passionate about <b>quality, automation,</b> and <b>continuous improvement</b> — aiming to make every release smoother and more reliable.
+</p>
+
+---
 
 <!-- Badges -->
 <a href="mailto:izar.anam7@gmail.com">
