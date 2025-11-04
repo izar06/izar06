@@ -22,45 +22,25 @@
 
 ## 🧰 Toolbelt
 
-<!-- compact tech chips -->
-<p>
-  <img src="https://img.shields.io/badge/Robot%20Framework-000?style=flat&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-000?style=flat&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Katalon-000?style=flat&logo=katalon&logoColor=16BD5B" />
-  <img src="https://img.shields.io/badge/K6-000?style=flat&logo=k6&logoColor=7D64FF" />
-  <img src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=FFD343" />
-  <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-000?style=flat&logo=jira&logoColor=2684FF" />
-  <img src="https://img.shields.io/badge/Testiny-000?style=flat" />
-  <img src="https://img.shields.io/badge/Kibana-000?style=flat&logo=kibana&logoColor=F04E98" />
-  <img src="https://img.shields.io/badge/AS400-000?style=flat" />
-  <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-<details>
-<summary><b>Breakdown</b> (click to expand)</summary>
-
-- **Automation:** Robot Framework, Appium, Katalon, k6  
+- **Automation:** Selenium, Robot Framework, Appium, Katalon, K6  
 - **API Testing:** Postman, REST, Newman CLI  
-- **Mobile:** Android (Appium)  
-- **Database:** SQL (DBeaver)  
-- **Scripting:** Python (basic)  
-- **Utilities:** Jira, Testiny, Kibana, AS400  
+- **Mobile Testing:** Android (Appium), IOS (Xcode)  
+- **Database:** SQL (DBeaver, Aquadata Studio)  
+- **Scripting:** Python  
+- **Utilities:** Jira, Zephyr, Testiny, Kibana, AS400  
 - **Version Control:** Git, GitHub  
-- **CI/CD:** GitHub Actions (manual scripting)
-</details>
+- **CI/CD:** Jenkins (Basic)
+- **Perfomance Testing:** Locust, K6
 
 ---
 
 ## 🧪 Testing Capabilities
 
-- ✅ Web & Mobile **UI Automation**  
-- ✅ **API** Test Automation  
-- ✅ Functional · Regression · Smoke · Performance  
-- ✅ Test Data Validation with **SQL**  
-- ✅ Clear **Defect Tracking & Reporting**
+- ✅ Web & Mobile UI Automation  
+- ✅ API Test Automation  
+- ✅ Functional, Regression, Smoke, Sanity, Integration, Performance Testing  
+- ✅ Test Data Validation using SQL  
+- ✅ Defect Tracking & Reporting
 
 ---
 
