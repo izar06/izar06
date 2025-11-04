@@ -4,27 +4,19 @@
 # 👋 Hi, I'm <b>Izar Hairul Anam</b>
 
 **QA Engineer** · Passionate about **Test Automation And Test Manual** (Web · API · Mobile)
+
 ---
 
 <p align="center">
-Hello! My name is <b>Izar Hairul Anam</b>, a <b>Software QA Engineer</b> with over <b>2 years of experience</b> in both manual and automation testing.<br>
-I have hands-on experience designing and executing test cases across functional, regression, performance, and API testing phases.
+Hello! My name is <b>Izar Hairul Anam</b>, a <b>Software QA Engineer</b> with over <b>2 years of experience</b> in manual and automation testing across <b>Web, API, and Mobile</b> platforms — focused on shipping reliable, high-quality software at speed.<br>
+I design and execute test cases for <b>functional, regression, performance</b>, and <b>API</b> phases, and build maintainable automation to keep releases predictable.<br>
+Currently at <b>Paydia</b>, I test iOS & Android apps, web, and APIs using <b>Robot Framework</b>, <b>Postman</b>, <b>Appium</b>, and <b>K6</b>.<br>
+Skilled with <b>SQL (DBeaver)</b> and tools like <b>Jira</b> & <b>Testiny</b> for test management and defect tracking.<br>
+Previously led <b>SIT/UAT</b> at <b>Bank Mandiri</b>, aligning developers, business teams, and stakeholders.<br>
+I care deeply about <b>quality</b>, <b>automation</b>, and <b>continuous improvement</b>.<br>
+<b>Better testing → better releases.</b>
 </p>
 
-<p align="center">
-Currently, I work as a <b>Software QA Engineer at Paydia</b>, performing end-to-end testing for mobile (iOS & Android), web, and API platforms using 
-<b>Robot Framework</b>, <b>Postman</b>, <b>Appium</b>, and <b>K6</b>.<br>
-I am proficient in <b>SQL (DBeaver)</b> for data validation and utilize tools like <b>Jira</b> and <b>Testiny</b> for test management and defect tracking.
-</p>
-
-<p align="center">
-Previously, I coordinated <b>SIT and UAT testing</b> at <b>Bank Mandiri</b>, where I led QA activities, defined testing strategies, 
-and ensured cross-team alignment between developers, business teams, and stakeholders.
-</p>
-
-<p align="center">
-I’m passionate about <b>quality, automation,</b> and <b>continuous improvement</b> — aiming to make every release smoother and more reliable.
-</p>
 
 ---
 
