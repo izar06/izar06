@@ -22,7 +22,7 @@
 
 ## 🧰 Toolbelt
 
-- **Automation:** Selenium, Robot Framework, Appium, Katalon, K6  
+- **Automation:** Selenium, Robot Framework, Appium, Katalon
 - **API Testing:** Postman, REST, Newman CLI  
 - **Mobile Testing:** Android (Appium), IOS (Xcode)  
 - **Database:** SQL (DBeaver, Aquadata Studio)  
